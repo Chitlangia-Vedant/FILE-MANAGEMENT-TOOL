@@ -51,8 +51,8 @@ Appending new line to the file.
 
 To remove the generated executable and example file:
 
-'''bash
+```bash
 rm file_management example.txt
-'''
+```
 
 
