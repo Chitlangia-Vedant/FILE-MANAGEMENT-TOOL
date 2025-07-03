@@ -1,6 +1,6 @@
-# 🛠️ File Management Tool - C++
+# File Management Tool - C++
 
-## 📌 Description
+## Description
 
 This is a simple C++ console application that demonstrates basic file-handling operations:
 - Writing to a text file
