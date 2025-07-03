@@ -27,19 +27,22 @@ g++ file_management.cpp -o file_management
 ```
 
 After execution, you will see:
-File contents printed to the terminal
-An updated example.txt file with the new appended line
+- File contents printed to the terminal
+- An updated example.txt file with the new appended line
 
 ## Output Example
 
 Contents of example.txt:
+```
 Hello, this is a test!
 This is line 2 of the file.
-
+```
 Contents of example.txt after appending:
+```
 Hello, this is a test!
 This is line 2 of the file.
 Appending new line to the file.
+```
 
 ## Concepts Demonstrated
 
